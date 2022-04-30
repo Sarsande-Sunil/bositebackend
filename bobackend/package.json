@@ -3,15 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "start": "node src/index.js"
-  },
-   "repository": {
-    "type": "git",
-    "url": "https://github.com/Sarsande-Sunil/bositebackend"
   },
   "keywords": [],
   "author": "",
