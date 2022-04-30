@@ -9,6 +9,10 @@
   "scripts": {
     "start": "node src/index.js"
   },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Sarsande-Sunil/bositebackend"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
